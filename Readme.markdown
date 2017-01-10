@@ -5,7 +5,7 @@
 This is the home of the example app for Corona SDK plugin [Logger] (https://yogergames.gitlab.io/logger/). It enables you to speed up troubleshooting of your apps and set up different logging profiles depending on device / platform.
 
 ## How to install
-1. Download the files in this repo.
+1. Download the files in this repo (https://github.com/yogergames/plugin-logger/archive/master.zip) 
 2. Unpack the zip file
 3. Start the app using Corona Simulator.
 
